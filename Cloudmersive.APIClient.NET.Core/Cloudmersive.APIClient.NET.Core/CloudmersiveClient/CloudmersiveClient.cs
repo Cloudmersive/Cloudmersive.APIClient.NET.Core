@@ -369,7 +369,7 @@ namespace Cloudmersive
             this.ConvertTemplate = new ConvertTemplate(this);
             this.ConvertWeb = new ConvertWeb(this);
             this.Scan = new Scan(this);
-            this.BaseUri = new Uri("http://localhost");
+            this.BaseUri = new Uri("https://api.cloudmersive.com");
             SerializationSettings = new JsonSerializerSettings
             {
                 Formatting = Formatting.Indented,

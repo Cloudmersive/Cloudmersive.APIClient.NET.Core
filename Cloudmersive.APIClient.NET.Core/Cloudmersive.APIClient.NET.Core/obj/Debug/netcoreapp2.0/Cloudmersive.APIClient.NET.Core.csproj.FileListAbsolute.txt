@@ -6,3 +6,4 @@ C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.AP
 C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\bin\Debug\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.pdb
 C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Debug\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.dll
 C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Debug\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.pdb
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Debug\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.csprojAssemblyReference.cache

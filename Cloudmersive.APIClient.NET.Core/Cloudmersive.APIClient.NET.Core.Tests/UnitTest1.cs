@@ -17,7 +17,7 @@ namespace Cloudmersive.APIClient.NET.Core.Tests
             using (var result = client.ConvertWeb.UrlToPdf(new Models.Input() { Url = "http://github.com" }))
             {
                 BinaryReader reader = new BinaryReader(result);
-                File.WriteAllBytes("C:\\temp\\output.pdf", reader.ReadBytes(int.MaxValue));
+                File.WriteAllBytes("C:\\temp\\output.pdf", reader.ReadBytes(10000000));
             }
         }
 
