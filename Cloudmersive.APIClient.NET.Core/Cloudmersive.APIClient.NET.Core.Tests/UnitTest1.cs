@@ -1,5 +1,5 @@
 using Cloudmersive;
-using Cloudmersive.APIClient.NET.Core;
+//using Cloudmersive.APIClient.NET.Core;
 //using Cloudmersive.APIClient.NET.Core.CloudmersiveClient;
 using Microsoft.Rest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
