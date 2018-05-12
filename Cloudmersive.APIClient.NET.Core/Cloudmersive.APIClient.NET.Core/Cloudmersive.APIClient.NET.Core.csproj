@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Cloudmersive Cloud API Client SDK library for .NET Core makes it incredibly easy to call Cloudmersive APIs from your .NET Core applications.</Description>
+    <PackageLicenseUrl>https://cloudmersive.com/eula/client-eula.txt</PackageLicenseUrl>
+    <Copyright>Appmersive, LLC</Copyright>
+    <PackageProjectUrl>https://www.cloudmersive.com/</PackageProjectUrl>
+    <PackageIconUrl>https://cloudmersive.com/images/cmsdk.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Cloudmersive/Cloudmersive.APIClient.NET.Core</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <AssemblyVersion>1.31.0.0</AssemblyVersion>
+    <FileVersion>1.31.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
