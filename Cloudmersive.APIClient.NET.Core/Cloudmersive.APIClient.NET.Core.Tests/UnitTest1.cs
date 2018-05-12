@@ -1,3 +1,6 @@
+using Cloudmersive;
+using Cloudmersive.APIClient.NET.Core;
+//using Cloudmersive.APIClient.NET.Core.CloudmersiveClient;
 using Microsoft.Rest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
@@ -21,20 +24,6 @@ namespace Cloudmersive.APIClient.NET.Core.Tests
             }
         }
 
-        public class ApiKeyCredentials : ServiceClientCredentials
-        {
-            string Key;
-
-            public ApiKeyCredentials(string key)
-            {
-                Key = key;
-            }
-
-            public override Task ProcessHttpRequestAsync(HttpRequestMessage request, CancellationToken cancellationToken)
-            {
-                request.Headers.Add("Apikey", Key);
-                return base.ProcessHttpRequestAsync(request, cancellationToken);
-            }
-        }
+        
     }
 }
