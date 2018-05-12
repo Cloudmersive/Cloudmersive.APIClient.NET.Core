@@ -1,0 +1,9 @@
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\bin\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.deps.json
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\bin\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.dll
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\bin\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.pdb
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.csprojAssemblyReference.cache
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.AssemblyInfoInputs.cache
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.AssemblyInfo.cs
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.dll
+C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\obj\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.pdb

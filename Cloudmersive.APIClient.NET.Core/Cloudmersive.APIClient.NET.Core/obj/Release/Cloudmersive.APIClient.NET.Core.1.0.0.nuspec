@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cloudmersive.APIClient.NET.Core</id>
+    <version>1.0.0</version>
+    <authors>Cloudmersive.APIClient.NET.Core</authors>
+    <owners>Cloudmersive.APIClient.NET.Core</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://cloudmersive.com/eula/client-eula.txt</licenseUrl>
+    <projectUrl>https://www.cloudmersive.com/</projectUrl>
+    <iconUrl>https://cloudmersive.com/images/cmsdk.png</iconUrl>
+    <description>Cloudmersive Cloud API Client SDK library for .NET Core makes it incredibly easy to call Cloudmersive APIs from your .NET Core applications.</description>
+    <copyright>Appmersive, LLC</copyright>
+    <repository type="Git" url="https://github.com/Cloudmersive/Cloudmersive.APIClient.NET.Core" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.Rest.ClientRuntime" version="2.3.11" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\Cloudmersive.APIClient.NET.Core\bin\Release\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.dll" target="lib\netcoreapp2.0\Cloudmersive.APIClient.NET.Core.dll" />
+  </files>
+</package>
